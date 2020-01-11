@@ -1,4 +1,5 @@
 # vba-macro-obfuscator
+Python script to obfuscate VBA (Virtual Basic for Applications) macros of MS OFFICE
 <h2> Requirements</h2>
 <ol><li><a href="https://www.python.org/downloads/">Python3</a></li>
 <li>Termcolor PIP</li>
