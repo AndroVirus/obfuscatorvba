@@ -7,7 +7,8 @@ Python script to obfuscate VBA (Virtual Basic for Applications) macros of MS OFF
 <h2> Install now</h2>
 <pre><code>pip3 install termcolor
 pip3 install pygments</code></pre>
-OR run <a href="https://github.com/graysuit/vba-macro-obfuscator/blob/master/installer.bat">installer.bat</a> as admintrator.
+OR 
+Run <a href="https://github.com/graysuit/vba-macro-obfuscator/blob/master/installer.bat"><b>installer.bat</b></a> as admintrator.
 <h2> Usage</h2>
 <pre><code>python obfuscate.py input.txt output.txt</code></pre>
 <h2> Download</h2>
